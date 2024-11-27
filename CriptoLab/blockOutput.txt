@@ -1,0 +1,8 @@
+The input key is:
+10 1a 0c 0b 01 11 09 07 32 a1 b3 06 23 12 d3 f1 
+The plain text is:
+a895 8723 1f2c 6d73 
+The cipher text is:
+ee72 171d b53d a206 
+The deciphered text is:
+a895 8723 1f2c 6d73 
